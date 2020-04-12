@@ -18,6 +18,9 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1aD8PbYVYP2XZ5LETSXXNMRcgBh" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -52,10 +55,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="372" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1586614919426">
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1586701853708">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="372" y="224" key="com.intellij.ide.util.TipDialog/67.27.1299.741/1366.0.1024.768@67.27.1299.741" timestamp="1586614919426" />
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog/67.27.1299.741/1366.0.1024.768@67.27.1299.741" timestamp="1586701853708" />
     <state x="379" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1586619689583">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
